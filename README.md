@@ -1,5 +1,5 @@
 # 1st-Year-Projects
-This repository showcases some brief coding and programming projects that I have created in 1st Year. 
+This repository showcases some programming projects that I have created in 1st Year. 
 
 Assignment 10, Week 11 is a C built program that orders students in terms or their surnmane and student ID.
 
